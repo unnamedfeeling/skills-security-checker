@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.2](https://github.com/unnamedfeeling/skills-security-checker/compare/v0.2.1...v0.2.2) (2026-11-15)
+
+
+### Bug Fixes
+
+* enhance tagging process and auto-close PRs ([cb2e773](https://github.com/unnamedfeeling/skills-security-checker/commit/cb2e7739f9bd5123e346380025491399f2126726))
+* enhance tagging process and auto-close PRs ([c53e424](https://github.com/unnamedfeeling/skills-security-checker/commit/c53e4247799a2a8e8d85e5ee1a05153709430e02))
+
 ## [0.2.1](https://github.com/unnamedfeeling/skills-security-checker/compare/v0.2.0...v0.2.1) (2026-11-15)
 
 
