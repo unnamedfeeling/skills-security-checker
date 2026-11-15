@@ -194,3 +194,8 @@ uv run mypy src
 ## License
 
 This project is licensed under the [Apache License, Version 2.0](LICENSE).
+
+---
+
+## Support & Feedback
+Found a false positive or encounter an issue? Please open an issue on [GitHub Issues](https://github.com/unnamedfeeling/skills-security-checker/issues).
