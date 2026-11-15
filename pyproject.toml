@@ -1,6 +1,6 @@
 [project]
 name = "skills-security-checker"
-version = "1.1.1"
+version = "1.2.0"
 description = "GitHub Action to audit skills against malicious actions using OpenAI-compatible LLMs"
 readme = "README.md"
 license = "Apache-2.0"

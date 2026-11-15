@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/unnamedfeeling/skills-security-checker/compare/v1.1.1...v1.2.0) (2026-11-15)
+
+
+### Features
+
+* add link to github issues; ([#15](https://github.com/unnamedfeeling/skills-security-checker/issues/15)) ([7480b7b](https://github.com/unnamedfeeling/skills-security-checker/commit/7480b7bd6d26ac483d299bcda7ecf43bf9ff2be7))
+
 ## [1.1.1](https://github.com/unnamedfeeling/skills-security-checker/compare/v1.1.0...v1.1.1) (2026-11-15)
 
 
